@@ -46,3 +46,8 @@ Build a greybox MVP with placeholder visuals only.
 - explain the plan before changing files
 - summarize files changed after each task
 - avoid broad refactors unless requested
+
+## Git workflow
+- Follow the branch strategy documented in `docs/workflow.md`
+- Do not suggest direct work on `main`
+- Keep changes scoped and suitable for feature branches
